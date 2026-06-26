@@ -1,0 +1,11 @@
+Imagina que las APIs son mensajeros digitales que conectan las aplicaciones que ya usamos todos los días. En una comunidad, sirven para organizar el caos y trabajar en equipo.
+
+Nos ayudan a:
+
+Juntar la información: Logran que los reportes de los vecinos (sin importar si los envían por WhatsApp, un formulario o una app) lleguen a un solo lugar organizado.
+
+Avisar rápido: Permiten enviar alertas automáticas a todos al mismo tiempo cuando ocurre una emergencia en el barrio.
+
+Conectar con ayuda: Hacen posible que los avisos vecinales lleguen directamente a las autoridades sin tener que hacer llamadas o trámites extra.
+
+La idea central: Las APIs son la herramienta invisible que permite a los vecinos estar conectados, bien informados y apoyarse mutuamente de manera rápida y sin complicaciones técnicas.
